@@ -1,7 +1,7 @@
 # Code your prompts here!
 
 # Try starting out with puts'ing a string.
-def Invitation
+def Invitation_writing
   name = Hermione
   puts "Dear #{name},
  
@@ -12,4 +12,4 @@ Sincerely,
 Harry Potter"
 end
 
-Invitation
+Invitation_writing
